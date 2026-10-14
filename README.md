@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -54,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
