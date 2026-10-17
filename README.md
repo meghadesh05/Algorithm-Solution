@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
+| [1480-running-sum-of-1d-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghadesh05/Algorithm-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
