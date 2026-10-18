@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghadesh05/Algorithm-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
