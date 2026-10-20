@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
