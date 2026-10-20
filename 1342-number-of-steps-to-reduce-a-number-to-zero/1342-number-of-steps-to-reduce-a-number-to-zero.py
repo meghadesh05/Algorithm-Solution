@@ -8,3 +8,6 @@ class Solution:
                 num = num - 1  
             count+=1          
         return count       
+
+        #TC => O(log n) for the repated having process with odd numbers
+        #SC => O(1)
