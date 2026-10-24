@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
 ## Math
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
