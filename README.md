@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
