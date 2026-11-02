@@ -2,7 +2,7 @@ class Solution:
     
         def lowerBound(self, nums, target):
             n = len(nums)
-            lb = n
+            lb = -1
             low = 0
             high = n-1
             
@@ -38,7 +38,7 @@ class Solution:
         def searchRange(self, nums: list[int], target: int) -> list[int]:
             lb = self.lowerBound(nums, target)
 
-            if lb == len(nums) or nums[lb] != target:
+            if lb ==-1 or nums[lb] != target:
                 return[-1,-1]
 
             ub = self.upperBound(nums, target)
