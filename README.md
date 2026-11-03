@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0704-binary-search) |
 ## Bit Manipulation
