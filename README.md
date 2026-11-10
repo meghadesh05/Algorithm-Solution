@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
 ## Math
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0018-4sum) |
+| [0141-linked-list-cycle](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meghadesh05/Algorithm-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -110,10 +112,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
