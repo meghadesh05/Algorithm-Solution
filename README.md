@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/meghadesh05/Algorithm-Solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
