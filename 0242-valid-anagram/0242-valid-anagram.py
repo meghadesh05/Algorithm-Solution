@@ -3,9 +3,16 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        sort_s = sorted(s)
-        sort_t = sorted(t)
+        char_freq = {}
+        for ch in s:
+                char_freq[ch] = char_freq.get(ch, 0)+1
 
-        if sort_s == sort_t:
-            return True
-        return False        
+        for ch in t:
+            if ch not in char_freq:
+                return False
+            else:
+                if char_freq[ch]<=0:
+                    return False
+                else:
+                    char_freq[ch]-=1
+        return True                    
