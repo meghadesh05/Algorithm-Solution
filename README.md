@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/meghadesh05/Algorithm-Solution/tree/master/0451-sort-characters-by-frequency) |
